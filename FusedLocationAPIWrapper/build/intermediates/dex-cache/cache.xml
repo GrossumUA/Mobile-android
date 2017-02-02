@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_5484643f97e4bf98f602d356c50dafc8f559e029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_8361c609bbdc22db2676eaedeb51fae2f58faaa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_2f3807f349b3c06b917c833eb296a9219efa8ab1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.0_cb916c6bb92bd526a6c438aa2d236b4d149603cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_8633461357a90f4f7bc83de987a144980e38b1c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_18659293053c5c2d33b4d494aa1dd731923bbb61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d72010860ac410ee292efeb39b2ae49b23306a26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.7/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/me.zhanghai.android.materialprogressbar-library-1.1.7_a5eec252bd26ab1c6efdce663f250ba0f0ecdcc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_e242cd19794cd6af126401d4d33399ff8ef4fe71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acc33023966f868dfe3ecb77a3ce5676dc8de92d">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.afollestad.material-dialogs-core-0.9.0.1_2d85ce80a9a352c643fdd4d079c661ed0b1674d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a2d05597a4ddfdf475bff138c932f6338d0baf27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_f47ca593dcb97d50fc703bec7ca33ac6847f41a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_fd2bd24e4df27e2b8a95717f9d8a5759aad274a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.0_bc82b3ce987b0fabc196dee89cb349bc5d290050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.6.0_7b69b5998496a89b7f918e3fe3f586a192e84603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e14213d0530afe78ef33551b402bc4023a6d7fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_1974816e816c1aaa1c169cf2222999b18c60502e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_96339d44d282be2426a0f28436d3c523e51ebd38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_1ba728503247fc49d30c69186fc1c4146029e480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_bdd2953b8af325f7bace4986581ef10332362052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_72c6736d98a065b1ed6743fc80569dbbee4ffe40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_96d7a296c9e3f079cd589a69c0898d53b27b121f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_d7e91792f0a093a72b70341947e701c32e5d5584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/LocationApiTester/location/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8154f69193da065d23d4e349f7674f98c8b4b208">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/LocationApiTester-location-unspecified_6e9edf0a45e7101c50048acaf313be1499af47cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.0_12cc9c091a500ee8ddd527cfbd7b6b74d7a42fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.6.0_229e80b997b39a4c5aee019e824022a02f24170d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a942181f4cf6fdefee081dad054e0198d362d5f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_91a7c8a4f2442f97aede6b234d44a7b5e5c6de57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/pseveryn/Projects/LocationApiTester/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_268a9473f0699efbdab47b75f4d519ffae11530b.jar" />
+    </item>
+
+</items>
