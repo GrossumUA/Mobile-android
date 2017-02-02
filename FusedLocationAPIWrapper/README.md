@@ -66,6 +66,10 @@ LocationApiWrapperService.changeUpdateSettings(this, interval, fastestInterval, 
 Sample App
 ---------------
 
+![Examples](/resources/sample_app_screen_1.png?raw=true) 
+![Examples](/resources/sample_app_screen_2.png?raw=true) 
+![Examples](/resources/sample_app_screen_3.png?raw=true)
+
 License
 -------
 Copyright (c) 2015 Grossum. All rights reserved.
