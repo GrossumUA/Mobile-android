@@ -3,7 +3,7 @@ FusedLocationAPIWrapper is an Android library that provides simple using of Goog
 Library has very simple interface that based on static methods.
 
 Also here you can find a sample project that can be used for two goals:
-- Help two understand how to use FusedLocationAPIWrapper
+- Help to understand how to use FusedLocationAPIWrapper
 - Test your GPS system via Google Location API
 
 How to use it
