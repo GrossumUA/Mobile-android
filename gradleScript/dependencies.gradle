@@ -1,0 +1,42 @@
+ext {
+    //Version
+    jUnitVersion = '4.12'
+    supportLibraryVersion = '25.0.1'
+    mockLibraryVersion = '2.5.5'
+    daggerVersion = '2.5'
+    daggerAnnotationVersion = '1.0'
+    butterknifeVersion = '8.4.0'
+    playServicesVersion = '9.6.0'
+    espressoVersion = '2.2.2'
+    eventBusVersion = '3.0.0'
+    materialDialogsVersion = '0.9.0.1'
+
+    unitTestingLibrary = "junit:junit:$jUnitVersion"
+    supportLibraries = [
+            design           :         "com.android.support:design:${supportLibraryVersion}",
+            recyclerView     :         "com.android.support:recyclerview-v7:${supportLibraryVersion}",
+            appCompat        :         "com.android.support:appcompat-v7:${supportLibraryVersion}",
+            //supportAnnotation:         "com.android.support:support-annotations:${supportLibrary}",
+    ]
+    mockLibrary = "org.mockito:mockito-core:${mockLibraryVersion}"
+
+    dependencyInjection = [
+            dagger           :         "com.google.dagger:dagger:$daggerVersion",
+            daggerCompiler   :         "com.google.dagger:dagger-compiler:$daggerVersion",
+            daggerAnnotation :         "javax.annotation:jsr250-api:$daggerAnnotationVersion"
+    ]
+
+    viewInjection = [
+            butterknife           :         "com.jakewharton:butterknife:$butterknifeVersion",
+            butterknifeCompiler   :         "com.jakewharton:butterknife-compiler:$butterknifeVersion"
+    ]
+
+    playServicesLibraries = [
+            location         :         "com.google.android.gms:play-services-location:${playServicesVersion}",
+            map         :         "com.google.android.gms:play-services-maps:${playServicesVersion}",
+    ]
+
+    eventBus = "org.greenrobot:eventbus:$eventBusVersion"
+    materialDialogs =  "com.afollestad.material-dialogs:core:$materialDialogsVersion"
+
+}

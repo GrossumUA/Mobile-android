@@ -1,0 +1,20 @@
+<resources>
+    <string name="google_maps_key">AIzaSyDv15WN0IwSz0W0fYXPoY-RnnEopBCHK2s</string>
+
+    <string name="app_name">Location API Tester</string>
+    <string name="ideal_location">Real location: %1$s | %2$s</string>
+    <string name="save">Save</string>
+    <string name="set_your_real_current_location">Set your real current location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="get_last_known_location">Last known location</string>
+    <string name="start_updating">Start updating</string>
+    <string name="enter_lat_lng_coord_properly">Enter Latitude and Longitude coordinates properly</string>
+    <string name="stop_updating">Stop updating</string>
+    <string name="dash">-</string>
+    <string name="apply_settings">Apply settings</string>
+    <string name="priority">Priority</string>
+    <string name="fastest_interval_ms">Fastest interval (ms)</string>
+    <string name="interval_ms">Interval (ms)</string>
+
+</resources>
