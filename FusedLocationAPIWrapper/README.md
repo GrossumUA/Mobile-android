@@ -67,7 +67,9 @@ Sample App
 ---------------
 
 ![Examples](/FusedLocationAPIWrapper/resources/sample_app_screen_1.png?raw=true "Title") 
+
 ![Examples](/FusedLocationAPIWrapper/resources/sample_app_screen_2.png?raw=true ) 
+
 ![Examples](/FusedLocationAPIWrapper/resources/sample_app_screen_3.png?raw=true )
 
 License
